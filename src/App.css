@@ -1,0 +1,13 @@
+h1{
+  text-align: centre;
+  color: red;
+  place-items: center;
+}
+h2{
+  text-align: centre;
+  color: rgb(42, 165, 106);
+}
+h3{
+  text-align: centre;
+  color:blue;
+}
